@@ -1,0 +1,226 @@
+Node Failure (%),Message Overhead,Algorithms
+0,142,Plebi ring topology
+0,144,Plebi ring topology
+0,142,Plebi ring topology
+0,3700,Plebi complete topology
+0,4057,Plebi complete topology
+0,4700,Plebi complete topology
+0,864,RAFT
+0,882,RAFT
+0,846,RAFT
+10.0,77,Plebi ring topology
+10.0,147,Plebi ring topology
+10.0,133,Plebi ring topology
+10.0,2835,Plebi complete topology
+10.0,2827,Plebi complete topology
+10.0,2378,Plebi complete topology
+10.0,850,RAFT
+10.0,744,RAFT
+10.0,855,RAFT
+20.0,71,Plebi ring topology
+20.0,44,Plebi ring topology
+20.0,99,Plebi ring topology
+20.0,2095,Plebi complete topology
+20.0,2463,Plebi complete topology
+20.0,2152,Plebi complete topology
+20.0,782,RAFT
+20.0,827,RAFT
+20.0,824,RAFT
+30.0,129,Plebi ring topology
+30.0,109,Plebi ring topology
+30.0,129,Plebi ring topology
+30.0,1562,Plebi complete topology
+30.0,1259,Plebi complete topology
+30.0,1511,Plebi complete topology
+30.0,638,RAFT
+30.0,762,RAFT
+30.0,795,RAFT
+40.0,100,Plebi ring topology
+40.0,47,Plebi ring topology
+40.0,107,Plebi ring topology
+40.0,1261,Plebi complete topology
+40.0,1356,Plebi complete topology
+40.0,1086,Plebi complete topology
+40.0,604,RAFT
+40.0,828,RAFT
+40.0,756,RAFT
+0,164,Plebi ring topology
+0,147,Plebi ring topology
+0,147,Plebi ring topology
+0,153,Plebi ring topology
+0,143,Plebi ring topology
+0,3742,Plebi complete topology
+0,4126,Plebi complete topology
+0,3260,Plebi complete topology
+0,4238,Plebi complete topology
+0,3195,Plebi complete topology
+0,898,RAFT
+0,864,RAFT
+0,882,RAFT
+0,810,RAFT
+0,828,RAFT
+10.0,127,Plebi ring topology
+10.0,128,Plebi ring topology
+10.0,136,Plebi ring topology
+10.0,156,Plebi ring topology
+10.0,131,Plebi ring topology
+10.0,3275,Plebi complete topology
+10.0,2460,Plebi complete topology
+10.0,2620,Plebi complete topology
+10.0,1799,Plebi complete topology
+10.0,2691,Plebi complete topology
+10.0,878,RAFT
+10.0,777,RAFT
+10.0,860,RAFT
+10.0,847,RAFT
+10.0,848,RAFT
+20.0,111,Plebi ring topology
+20.0,130,Plebi ring topology
+20.0,121,Plebi ring topology
+20.0,103,Plebi ring topology
+20.0,141,Plebi ring topology
+20.0,2113,Plebi complete topology
+20.0,2290,Plebi complete topology
+20.0,1356,Plebi complete topology
+20.0,2013,Plebi complete topology
+20.0,1872,Plebi complete topology
+20.0,802,RAFT
+20.0,782,RAFT
+20.0,738,RAFT
+20.0,808,RAFT
+20.0,826,RAFT
+30.0,76,Plebi ring topology
+30.0,83,Plebi ring topology
+30.0,102,Plebi ring topology
+30.0,113,Plebi ring topology
+30.0,53,Plebi ring topology
+30.0,1783,Plebi complete topology
+30.0,1565,Plebi complete topology
+30.0,1687,Plebi complete topology
+30.0,1470,Plebi complete topology
+30.0,1409,Plebi complete topology
+30.0,846,RAFT
+30.0,654,RAFT
+30.0,709,RAFT
+30.0,691,RAFT
+30.0,849,RAFT
+40.0,140,Plebi ring topology
+40.0,98,Plebi ring topology
+40.0,119,Plebi ring topology
+40.0,92,Plebi ring topology
+40.0,137,Plebi ring topology
+40.0,835,Plebi complete topology
+40.0,865,Plebi complete topology
+40.0,778,Plebi complete topology
+40.0,1234,Plebi complete topology
+40.0,1406,Plebi complete topology
+40.0,618,RAFT
+40.0,768,RAFT
+40.0,814,RAFT
+40.0,664,RAFT
+40.0,607,RAFT
+50.0,49,Plebi ring topology
+50.0,100,Plebi ring topology
+50.0,121,Plebi ring topology
+50.0,99,Plebi ring topology
+50.0,107,Plebi ring topology
+50.0,677,Plebi complete topology
+50.0,769,Plebi complete topology
+50.0,555,Plebi complete topology
+50.0,524,Plebi complete topology
+50.0,619,Plebi complete topology
+50.0,318,RAFT
+50.0,659,RAFT
+50.0,450,RAFT
+50.0,729,RAFT
+50.0,484,RAFT
+0,151,Plebi ring topology
+0,164,Plebi ring topology
+0,164,Plebi ring topology
+0,135,Plebi ring topology
+0,158,Plebi ring topology
+0,3874,Plebi complete topology
+0,3155,Plebi complete topology
+0,3685,Plebi complete topology
+0,3196,Plebi complete topology
+0,3528,Plebi complete topology
+0,890,RAFT
+0,890,RAFT
+0,880,RAFT
+0,882,RAFT
+0,882,RAFT
+10.0,129,Plebi ring topology
+10.0,135,Plebi ring topology
+10.0,128,Plebi ring topology
+10.0,73,Plebi ring topology
+10.0,72,Plebi ring topology
+10.0,2601,Plebi complete topology
+10.0,3510,Plebi complete topology
+10.0,3202,Plebi complete topology
+10.0,1788,Plebi complete topology
+10.0,2992,Plebi complete topology
+10.0,853,RAFT
+10.0,854,RAFT
+10.0,835,RAFT
+10.0,839,RAFT
+10.0,854,RAFT
+20.0,131,Plebi ring topology
+20.0,130,Plebi ring topology
+20.0,146,Plebi ring topology
+20.0,121,Plebi ring topology
+20.0,41,Plebi ring topology
+20.0,1425,Plebi complete topology
+20.0,2144,Plebi complete topology
+20.0,2302,Plebi complete topology
+20.0,3036,Plebi complete topology
+20.0,1510,Plebi complete topology
+20.0,779,RAFT
+20.0,782,RAFT
+20.0,753,RAFT
+20.0,762,RAFT
+20.0,796,RAFT
+30.0,135,Plebi ring topology
+30.0,143,Plebi ring topology
+30.0,70,Plebi ring topology
+30.0,134,Plebi ring topology
+30.0,54,Plebi ring topology
+30.0,1357,Plebi complete topology
+30.0,1660,Plebi complete topology
+30.0,1209,Plebi complete topology
+30.0,1165,Plebi complete topology
+30.0,1741,Plebi complete topology
+30.0,831,RAFT
+30.0,744,RAFT
+30.0,740,RAFT
+30.0,762,RAFT
+30.0,732,RAFT
+40.0,98,Plebi ring topology
+40.0,99,Plebi ring topology
+40.0,66,Plebi ring topology
+40.0,137,Plebi ring topology
+40.0,106,Plebi ring topology
+40.0,1075,Plebi complete topology
+40.0,1217,Plebi complete topology
+40.0,1208,Plebi complete topology
+40.0,1078,Plebi complete topology
+40.0,987,Plebi complete topology
+40.0,660,RAFT
+40.0,852,RAFT
+40.0,643,RAFT
+40.0,768,RAFT
+40.0,635,RAFT
+50.0,41,Plebi ring topology
+50.0,107,Plebi ring topology
+50.0,116,Plebi ring topology
+50.0,51,Plebi ring topology
+50.0,111,Plebi ring topology
+50.0,1071,Plebi complete topology
+50.0,507,Plebi complete topology
+50.0,522,Plebi complete topology
+50.0,582,Plebi complete topology
+50.0,745,Plebi complete topology
+50.0,755,RAFT
+50.0,622,RAFT
+50.0,311,RAFT
+50.0,648,RAFT
+50.0,742,RAFT

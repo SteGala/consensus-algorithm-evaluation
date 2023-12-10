@@ -113,6 +113,7 @@ class SyncObj(object):
         :type transportClass: class
         """
         self.message_count = 0
+        self.message_count_lock = threading.Lock()
         
         if conf is None:
             self.__conf = SyncObjConf()
@@ -465,6 +466,8 @@ class SyncObj(object):
                         if callback is not None:
                             self.__commandsWaitingCommit[idx].append((term, callback))
                     else:
+                        with self.message_count_lock:
+                            self.message_count += 1
                         self.__transport.send(requestNode, {
                             'type': 'apply_command_response',
                             'request_id': requestID,
@@ -479,6 +482,8 @@ class SyncObj(object):
                         if callback is not None:
                             callback(None, FAIL_REASON.REQUEST_DENIED)
                     else:
+                        with self.message_count_lock:
+                            self.message_count += 1
                         self.__transport.send(requestNode, {
                             'type': 'apply_command_response',
                             'request_id': requestID,
@@ -496,9 +501,12 @@ class SyncObj(object):
                         self.__commandsLocalCounter += 1
                         self.__commandsWaitingReply[self.__commandsLocalCounter] = callback
                         message['request_id'] = self.__commandsLocalCounter
-
+                    with self.message_count_lock:
+                        self.message_count += 1
                     self.__transport.send(self.__raftLeader, message)
                 else:
+                    with self.message_count_lock:
+                        self.message_count += 1
                     self.__transport.send(requestNode, {
                         'type': 'apply_command_response',
                         'request_id': requestID,
@@ -569,6 +577,8 @@ class SyncObj(object):
                 self.__votedForNodeId = self.__selfNode.id
                 self.__votesCount = 1
                 for node in self.__otherNodes:
+                    with self.message_count_lock:
+                        self.message_count += 1
                     self.__transport.send(node, {
                         'type': 'request_vote',
                         'term': self.__raftCurrentTerm,
@@ -836,9 +846,6 @@ class SyncObj(object):
         return self._idToMethod[funcID](*args, **kwargs)
 
     def __onMessageReceived(self, node, message):
-        
-        self.message_count += 1
-
         if message['type'] == 'request_vote' and self.__selfNode is not None:
 
             if message['term'] > self.__raftCurrentTerm:
@@ -862,6 +869,8 @@ class SyncObj(object):
                     self.__votedForNodeId = node.id
 
                     self.__raftElectionDeadline = monotonicTime() + self.__generateRaftTimeout()
+                    with self.message_count_lock:
+                        self.message_count += 1
                     self.__transport.send(node, {
                         'type': 'response_vote',
                         'term': message['term'],
@@ -990,6 +999,8 @@ class SyncObj(object):
             return
         if isinstance(callback, tuple):
             requestNode, requestID = callback
+            with self.message_count_lock:
+                self.message_count += 1
             self.__transport.send(requestNode, {
                 'type': 'apply_command_response',
                 'request_id': requestID,
@@ -1001,6 +1012,8 @@ class SyncObj(object):
     def __sendNextNodeIdx(self, node, reset=False, nextNodeIdx = None, success = False):
         if nextNodeIdx is None:
             nextNodeIdx = self.__getCurrentLogIndex() + 1
+        with self.message_count_lock:
+            self.message_count += 1
         self.__transport.send(node, {
             'type': 'next_node_idx',
             'next_node_idx': nextNodeIdx,
@@ -1189,6 +1202,8 @@ class SyncObj(object):
                                 'prevLogIdx': prevLogIdx,
                                 'prevLogTerm': prevLogTerm,
                             }
+                            with self.message_count_lock:
+                                self.message_count += 1
                             self.__transport.send(node, message)
                             if node not in self.__connectedNodes:
                                 break
@@ -1201,6 +1216,8 @@ class SyncObj(object):
                             'prevLogIdx': prevLogIdx,
                             'prevLogTerm': prevLogTerm,
                         }
+                        with self.message_count_lock:
+                            self.message_count += 1
                         self.__transport.send(node, message)
                         if node not in self.__connectedNodes:
                             break
@@ -1212,6 +1229,8 @@ class SyncObj(object):
                         'commit_index': self.__raftCommitIndex,
                         'serialized': transmissionData,
                     }
+                    with self.message_count_lock:
+                        self.message_count += 1
                     self.__transport.send(node, message)
                     if node not in self.__connectedNodes:
                         break
