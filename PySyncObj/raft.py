@@ -118,8 +118,8 @@ def test(run, n_jobs, n_nodes, n_failures):
         threads.append(x)
         events.append(e)
     
-    posiible_time_failure = np.arange(DISPATCH_TIMEOUT, DISPATCH_TIMEOUT*n_jobs - DISPATCH_TIMEOUT, DISPATCH_TIMEOUT)
-    time.sleep(random.choice(posiible_time_failure))
+    possible_time_failure = np.arange(DISPATCH_TIMEOUT, DISPATCH_TIMEOUT*n_jobs - DISPATCH_TIMEOUT, DISPATCH_TIMEOUT)
+    time.sleep(random.choice(possible_time_failure))
     for n in failure_nodes:
         events[n].set() 
     

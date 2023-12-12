@@ -1,226 +1,1261 @@
 Node Failure (%),Message Overhead,Algorithms
-0,142,Plebi ring topology
-0,144,Plebi ring topology
-0,142,Plebi ring topology
-0,3700,Plebi complete topology
-0,4057,Plebi complete topology
-0,4700,Plebi complete topology
-0,864,RAFT
-0,882,RAFT
-0,846,RAFT
-10.0,77,Plebi ring topology
-10.0,147,Plebi ring topology
-10.0,133,Plebi ring topology
-10.0,2835,Plebi complete topology
-10.0,2827,Plebi complete topology
-10.0,2378,Plebi complete topology
-10.0,850,RAFT
-10.0,744,RAFT
-10.0,855,RAFT
-20.0,71,Plebi ring topology
-20.0,44,Plebi ring topology
-20.0,99,Plebi ring topology
-20.0,2095,Plebi complete topology
-20.0,2463,Plebi complete topology
-20.0,2152,Plebi complete topology
-20.0,782,RAFT
-20.0,827,RAFT
-20.0,824,RAFT
-30.0,129,Plebi ring topology
-30.0,109,Plebi ring topology
-30.0,129,Plebi ring topology
-30.0,1562,Plebi complete topology
-30.0,1259,Plebi complete topology
-30.0,1511,Plebi complete topology
-30.0,638,RAFT
-30.0,762,RAFT
-30.0,795,RAFT
-40.0,100,Plebi ring topology
-40.0,47,Plebi ring topology
-40.0,107,Plebi ring topology
-40.0,1261,Plebi complete topology
-40.0,1356,Plebi complete topology
-40.0,1086,Plebi complete topology
-40.0,604,RAFT
-40.0,828,RAFT
-40.0,756,RAFT
-0,164,Plebi ring topology
-0,147,Plebi ring topology
-0,147,Plebi ring topology
-0,153,Plebi ring topology
-0,143,Plebi ring topology
-0,3742,Plebi complete topology
-0,4126,Plebi complete topology
-0,3260,Plebi complete topology
-0,4238,Plebi complete topology
-0,3195,Plebi complete topology
-0,898,RAFT
-0,864,RAFT
-0,882,RAFT
-0,810,RAFT
-0,828,RAFT
-10.0,127,Plebi ring topology
-10.0,128,Plebi ring topology
-10.0,136,Plebi ring topology
-10.0,156,Plebi ring topology
-10.0,131,Plebi ring topology
-10.0,3275,Plebi complete topology
-10.0,2460,Plebi complete topology
-10.0,2620,Plebi complete topology
-10.0,1799,Plebi complete topology
-10.0,2691,Plebi complete topology
-10.0,878,RAFT
-10.0,777,RAFT
-10.0,860,RAFT
-10.0,847,RAFT
-10.0,848,RAFT
-20.0,111,Plebi ring topology
-20.0,130,Plebi ring topology
-20.0,121,Plebi ring topology
-20.0,103,Plebi ring topology
-20.0,141,Plebi ring topology
-20.0,2113,Plebi complete topology
-20.0,2290,Plebi complete topology
-20.0,1356,Plebi complete topology
-20.0,2013,Plebi complete topology
-20.0,1872,Plebi complete topology
-20.0,802,RAFT
-20.0,782,RAFT
-20.0,738,RAFT
-20.0,808,RAFT
-20.0,826,RAFT
-30.0,76,Plebi ring topology
-30.0,83,Plebi ring topology
-30.0,102,Plebi ring topology
-30.0,113,Plebi ring topology
-30.0,53,Plebi ring topology
-30.0,1783,Plebi complete topology
-30.0,1565,Plebi complete topology
-30.0,1687,Plebi complete topology
-30.0,1470,Plebi complete topology
-30.0,1409,Plebi complete topology
-30.0,846,RAFT
-30.0,654,RAFT
-30.0,709,RAFT
-30.0,691,RAFT
-30.0,849,RAFT
-40.0,140,Plebi ring topology
-40.0,98,Plebi ring topology
-40.0,119,Plebi ring topology
-40.0,92,Plebi ring topology
-40.0,137,Plebi ring topology
-40.0,835,Plebi complete topology
-40.0,865,Plebi complete topology
-40.0,778,Plebi complete topology
-40.0,1234,Plebi complete topology
-40.0,1406,Plebi complete topology
-40.0,618,RAFT
-40.0,768,RAFT
-40.0,814,RAFT
-40.0,664,RAFT
-40.0,607,RAFT
-50.0,49,Plebi ring topology
-50.0,100,Plebi ring topology
-50.0,121,Plebi ring topology
-50.0,99,Plebi ring topology
-50.0,107,Plebi ring topology
-50.0,677,Plebi complete topology
-50.0,769,Plebi complete topology
-50.0,555,Plebi complete topology
-50.0,524,Plebi complete topology
-50.0,619,Plebi complete topology
-50.0,318,RAFT
-50.0,659,RAFT
-50.0,450,RAFT
-50.0,729,RAFT
-50.0,484,RAFT
-0,151,Plebi ring topology
-0,164,Plebi ring topology
-0,164,Plebi ring topology
-0,135,Plebi ring topology
-0,158,Plebi ring topology
-0,3874,Plebi complete topology
-0,3155,Plebi complete topology
-0,3685,Plebi complete topology
-0,3196,Plebi complete topology
-0,3528,Plebi complete topology
-0,890,RAFT
-0,890,RAFT
-0,880,RAFT
-0,882,RAFT
-0,882,RAFT
-10.0,129,Plebi ring topology
-10.0,135,Plebi ring topology
-10.0,128,Plebi ring topology
-10.0,73,Plebi ring topology
-10.0,72,Plebi ring topology
-10.0,2601,Plebi complete topology
-10.0,3510,Plebi complete topology
-10.0,3202,Plebi complete topology
-10.0,1788,Plebi complete topology
-10.0,2992,Plebi complete topology
-10.0,853,RAFT
-10.0,854,RAFT
-10.0,835,RAFT
-10.0,839,RAFT
-10.0,854,RAFT
-20.0,131,Plebi ring topology
-20.0,130,Plebi ring topology
-20.0,146,Plebi ring topology
-20.0,121,Plebi ring topology
-20.0,41,Plebi ring topology
-20.0,1425,Plebi complete topology
-20.0,2144,Plebi complete topology
-20.0,2302,Plebi complete topology
-20.0,3036,Plebi complete topology
-20.0,1510,Plebi complete topology
-20.0,779,RAFT
-20.0,782,RAFT
-20.0,753,RAFT
-20.0,762,RAFT
-20.0,796,RAFT
-30.0,135,Plebi ring topology
-30.0,143,Plebi ring topology
-30.0,70,Plebi ring topology
-30.0,134,Plebi ring topology
-30.0,54,Plebi ring topology
-30.0,1357,Plebi complete topology
-30.0,1660,Plebi complete topology
-30.0,1209,Plebi complete topology
-30.0,1165,Plebi complete topology
-30.0,1741,Plebi complete topology
-30.0,831,RAFT
-30.0,744,RAFT
-30.0,740,RAFT
-30.0,762,RAFT
-30.0,732,RAFT
-40.0,98,Plebi ring topology
-40.0,99,Plebi ring topology
-40.0,66,Plebi ring topology
-40.0,137,Plebi ring topology
-40.0,106,Plebi ring topology
-40.0,1075,Plebi complete topology
-40.0,1217,Plebi complete topology
-40.0,1208,Plebi complete topology
-40.0,1078,Plebi complete topology
-40.0,987,Plebi complete topology
-40.0,660,RAFT
-40.0,852,RAFT
-40.0,643,RAFT
-40.0,768,RAFT
-40.0,635,RAFT
-50.0,41,Plebi ring topology
-50.0,107,Plebi ring topology
-50.0,116,Plebi ring topology
-50.0,51,Plebi ring topology
-50.0,111,Plebi ring topology
-50.0,1071,Plebi complete topology
-50.0,507,Plebi complete topology
-50.0,522,Plebi complete topology
-50.0,582,Plebi complete topology
-50.0,745,Plebi complete topology
-50.0,755,RAFT
-50.0,622,RAFT
-50.0,311,RAFT
-50.0,648,RAFT
-50.0,742,RAFT
+0.0,317.0,Plebi 0.3 prob topology
+0.0,1444.0,Plebi 0.5 prob topology
+0.0,2291.0,Plebi 0.7 prob topology
+0.0,4062.0,Plebi 0.9 prob topology
+0.0,885.0,RAFT
+0.0,446.0,Plebi 0.3 prob topology
+0.0,1321.0,Plebi 0.5 prob topology
+0.0,2768.0,Plebi 0.7 prob topology
+0.0,3594.0,Plebi 0.9 prob topology
+0.0,900.0,RAFT
+0.0,347.0,Plebi 0.3 prob topology
+0.0,1845.0,Plebi 0.5 prob topology
+0.0,2676.0,Plebi 0.7 prob topology
+0.0,3293.0,Plebi 0.9 prob topology
+0.0,882.0,RAFT
+0.0,279.0,Plebi 0.3 prob topology
+0.0,1254.0,Plebi 0.5 prob topology
+0.0,2063.0,Plebi 0.7 prob topology
+0.0,4016.0,Plebi 0.9 prob topology
+0.0,872.0,RAFT
+0.0,428.0,Plebi 0.3 prob topology
+0.0,1448.0,Plebi 0.5 prob topology
+0.0,2085.0,Plebi 0.7 prob topology
+0.0,3728.0,Plebi 0.9 prob topology
+0.0,900.0,RAFT
+50.0,299.0,Plebi 0.3 prob topology
+50.0,89.0,Plebi 0.5 prob topology
+50.0,671.0,Plebi 0.7 prob topology
+50.0,738.0,Plebi 0.9 prob topology
+50.0,767.0,RAFT
+50.0,165.0,Plebi 0.3 prob topology
+50.0,359.0,Plebi 0.5 prob topology
+50.0,517.0,Plebi 0.7 prob topology
+50.0,1072.0,Plebi 0.9 prob topology
+50.0,767.0,RAFT
+50.0,431.0,Plebi 0.3 prob topology
+50.0,790.0,Plebi 0.5 prob topology
+50.0,764.0,Plebi 0.7 prob topology
+50.0,1090.0,Plebi 0.9 prob topology
+50.0,822.0,RAFT
+50.0,164.0,Plebi 0.3 prob topology
+50.0,641.0,Plebi 0.5 prob topology
+50.0,177.0,Plebi 0.7 prob topology
+50.0,1422.0,Plebi 0.9 prob topology
+50.0,116.0,RAFT
+50.0,117.0,Plebi 0.3 prob topology
+50.0,695.0,Plebi 0.5 prob topology
+50.0,714.0,Plebi 0.7 prob topology
+50.0,1232.0,Plebi 0.9 prob topology
+50.0,695.0,RAFT
+30.0,180.0,Plebi 0.3 prob topology
+30.0,325.0,Plebi 0.5 prob topology
+30.0,636.0,Plebi 0.7 prob topology
+30.0,1351.0,Plebi 0.9 prob topology
+30.0,759.0,RAFT
+30.0,131.0,Plebi 0.3 prob topology
+30.0,385.0,Plebi 0.5 prob topology
+30.0,455.0,Plebi 0.7 prob topology
+30.0,2623.0,Plebi 0.9 prob topology
+30.0,776.0,RAFT
+30.0,128.0,Plebi 0.3 prob topology
+30.0,351.0,Plebi 0.5 prob topology
+30.0,626.0,Plebi 0.7 prob topology
+30.0,1226.0,Plebi 0.9 prob topology
+30.0,864.0,RAFT
+30.0,177.0,Plebi 0.3 prob topology
+30.0,391.0,Plebi 0.5 prob topology
+30.0,992.0,Plebi 0.7 prob topology
+30.0,1792.0,Plebi 0.9 prob topology
+30.0,795.0,RAFT
+30.0,174.0,Plebi 0.3 prob topology
+30.0,322.0,Plebi 0.5 prob topology
+30.0,651.0,Plebi 0.7 prob topology
+30.0,1445.0,Plebi 0.9 prob topology
+30.0,610.0,RAFT
+20.0,615.0,Plebi 0.3 prob topology
+20.0,135.0,Plebi 0.5 prob topology
+20.0,1708.0,Plebi 0.7 prob topology
+20.0,2121.0,Plebi 0.9 prob topology
+20.0,814.0,RAFT
+20.0,10.0,Plebi 0.3 prob topology
+20.0,454.0,Plebi 0.5 prob topology
+20.0,1195.0,Plebi 0.7 prob topology
+20.0,1979.0,Plebi 0.9 prob topology
+20.0,744.0,RAFT
+20.0,10.0,Plebi 0.3 prob topology
+20.0,970.0,Plebi 0.5 prob topology
+20.0,1446.0,Plebi 0.7 prob topology
+20.0,1884.0,Plebi 0.9 prob topology
+20.0,794.0,RAFT
+20.0,10.0,Plebi 0.3 prob topology
+20.0,1193.0,Plebi 0.5 prob topology
+20.0,1200.0,Plebi 0.7 prob topology
+20.0,1838.0,Plebi 0.9 prob topology
+20.0,814.0,RAFT
+20.0,388.0,Plebi 0.3 prob topology
+20.0,366.0,Plebi 0.5 prob topology
+20.0,830.0,Plebi 0.7 prob topology
+20.0,2429.0,Plebi 0.9 prob topology
+20.0,800.0,RAFT
+10.0,507.0,Plebi 0.3 prob topology
+10.0,1495.0,Plebi 0.5 prob topology
+10.0,863.0,Plebi 0.7 prob topology
+10.0,2884.0,Plebi 0.9 prob topology
+10.0,797.0,RAFT
+10.0,290.0,Plebi 0.3 prob topology
+10.0,1036.0,Plebi 0.5 prob topology
+10.0,1597.0,Plebi 0.7 prob topology
+10.0,2615.0,Plebi 0.9 prob topology
+10.0,847.0,RAFT
+10.0,96.0,Plebi 0.3 prob topology
+10.0,1744.0,Plebi 0.5 prob topology
+10.0,1566.0,Plebi 0.7 prob topology
+10.0,1927.0,Plebi 0.9 prob topology
+10.0,799.0,RAFT
+0.0,384.0,Plebi 0.3 prob topology
+0.0,469.0,Plebi 0.5 prob topology
+0.0,2225.0,Plebi 0.7 prob topology
+0.0,2429.0,Plebi 0.9 prob topology
+0.0,882.0,RAFT
+0.0,349.0,Plebi 0.3 prob topology
+0.0,520.0,Plebi 0.5 prob topology
+0.0,2002.0,Plebi 0.7 prob topology
+0.0,2638.0,Plebi 0.9 prob topology
+0.0,864.0,RAFT
+0.0,280.0,Plebi 0.3 prob topology
+0.0,698.0,Plebi 0.5 prob topology
+0.0,2058.0,Plebi 0.7 prob topology
+0.0,2402.0,Plebi 0.9 prob topology
+0.0,882.0,RAFT
+0.0,326.0,Plebi 0.3 prob topology
+0.0,533.0,Plebi 0.5 prob topology
+0.0,2117.0,Plebi 0.7 prob topology
+0.0,3024.0,Plebi 0.9 prob topology
+0.0,882.0,RAFT
+0.0,262.0,Plebi 0.3 prob topology
+0.0,468.0,Plebi 0.5 prob topology
+0.0,2484.0,Plebi 0.7 prob topology
+0.0,3124.0,Plebi 0.9 prob topology
+0.0,900.0,RAFT
+0.0,251.0,Plebi 0.3 prob topology
+0.0,524.0,Plebi 0.5 prob topology
+0.0,2247.0,Plebi 0.7 prob topology
+0.0,3052.0,Plebi 0.9 prob topology
+0.0,900.0,RAFT
+0.0,293.0,Plebi 0.3 prob topology
+0.0,589.0,Plebi 0.5 prob topology
+0.0,2529.0,Plebi 0.7 prob topology
+0.0,2664.0,Plebi 0.9 prob topology
+0.0,908.0,RAFT
+0.0,269.0,Plebi 0.3 prob topology
+0.0,706.0,Plebi 0.5 prob topology
+0.0,2071.0,Plebi 0.7 prob topology
+0.0,2125.0,Plebi 0.9 prob topology
+0.0,900.0,RAFT
+0.0,270.0,Plebi 0.3 prob topology
+0.0,547.0,Plebi 0.5 prob topology
+0.0,2106.0,Plebi 0.7 prob topology
+0.0,2408.0,Plebi 0.9 prob topology
+0.0,882.0,RAFT
+0.0,304.0,Plebi 0.3 prob topology
+0.0,693.0,Plebi 0.5 prob topology
+0.0,2322.0,Plebi 0.7 prob topology
+0.0,3466.0,Plebi 0.9 prob topology
+0.0,864.0,RAFT
+0.0,294.0,Plebi 0.3 prob topology
+0.0,817.0,Plebi 0.5 prob topology
+0.0,2196.0,Plebi 0.7 prob topology
+0.0,2571.0,Plebi 0.9 prob topology
+0.0,854.0,RAFT
+0.0,259.0,Plebi 0.3 prob topology
+0.0,745.0,Plebi 0.5 prob topology
+0.0,2240.0,Plebi 0.7 prob topology
+0.0,2864.0,Plebi 0.9 prob topology
+0.0,846.0,RAFT
+0.0,302.0,Plebi 0.3 prob topology
+0.0,495.0,Plebi 0.5 prob topology
+0.0,2251.0,Plebi 0.7 prob topology
+0.0,2351.0,Plebi 0.9 prob topology
+0.0,882.0,RAFT
+0.0,317.0,Plebi 0.3 prob topology
+0.0,538.0,Plebi 0.5 prob topology
+0.0,1411.0,Plebi 0.7 prob topology
+0.0,3304.0,Plebi 0.9 prob topology
+0.0,846.0,RAFT
+0.0,395.0,Plebi 0.3 prob topology
+0.0,667.0,Plebi 0.5 prob topology
+0.0,1645.0,Plebi 0.7 prob topology
+0.0,2382.0,Plebi 0.9 prob topology
+0.0,883.0,RAFT
+0.0,293.0,Plebi 0.3 prob topology
+0.0,590.0,Plebi 0.5 prob topology
+0.0,1385.0,Plebi 0.7 prob topology
+0.0,2528.0,Plebi 0.9 prob topology
+0.0,882.0,RAFT
+0.0,282.0,Plebi 0.3 prob topology
+0.0,598.0,Plebi 0.5 prob topology
+0.0,1826.0,Plebi 0.7 prob topology
+0.0,2284.0,Plebi 0.9 prob topology
+0.0,828.0,RAFT
+0.0,275.0,Plebi 0.3 prob topology
+0.0,504.0,Plebi 0.5 prob topology
+0.0,1482.0,Plebi 0.7 prob topology
+0.0,2346.0,Plebi 0.9 prob topology
+0.0,882.0,RAFT
+0.0,238.0,Plebi 0.3 prob topology
+0.0,506.0,Plebi 0.5 prob topology
+0.0,1417.0,Plebi 0.7 prob topology
+0.0,2648.0,Plebi 0.9 prob topology
+0.0,882.0,RAFT
+0.0,257.0,Plebi 0.3 prob topology
+0.0,485.0,Plebi 0.5 prob topology
+0.0,1621.0,Plebi 0.7 prob topology
+0.0,3386.0,Plebi 0.9 prob topology
+0.0,872.0,RAFT
+0.0,285.0,Plebi 0.3 prob topology
+0.0,508.0,Plebi 0.5 prob topology
+0.0,1423.0,Plebi 0.7 prob topology
+0.0,2272.0,Plebi 0.9 prob topology
+0.0,864.0,RAFT
+0.0,309.0,Plebi 0.3 prob topology
+0.0,469.0,Plebi 0.5 prob topology
+0.0,1344.0,Plebi 0.7 prob topology
+0.0,3274.0,Plebi 0.9 prob topology
+0.0,864.0,RAFT
+0.0,275.0,Plebi 0.3 prob topology
+0.0,484.0,Plebi 0.5 prob topology
+0.0,1479.0,Plebi 0.7 prob topology
+0.0,2734.0,Plebi 0.9 prob topology
+0.0,846.0,RAFT
+0.0,301.0,Plebi 0.3 prob topology
+0.0,441.0,Plebi 0.5 prob topology
+0.0,1252.0,Plebi 0.7 prob topology
+0.0,2494.0,Plebi 0.9 prob topology
+0.0,882.0,RAFT
+0.0,315.0,Plebi 0.3 prob topology
+0.0,647.0,Plebi 0.5 prob topology
+0.0,1644.0,Plebi 0.7 prob topology
+0.0,2889.0,Plebi 0.9 prob topology
+0.0,882.0,RAFT
+0.0,262.0,Plebi 0.3 prob topology
+0.0,489.0,Plebi 0.5 prob topology
+0.0,1615.0,Plebi 0.7 prob topology
+0.0,2440.0,Plebi 0.9 prob topology
+0.0,882.0,RAFT
+0.0,257.0,Plebi 0.3 prob topology
+0.0,438.0,Plebi 0.5 prob topology
+0.0,1426.0,Plebi 0.7 prob topology
+0.0,3340.0,Plebi 0.9 prob topology
+0.0,882.0,RAFT
+0.0,333.0,Plebi 0.3 prob topology
+0.0,508.0,Plebi 0.5 prob topology
+0.0,1622.0,Plebi 0.7 prob topology
+0.0,2643.0,Plebi 0.9 prob topology
+0.0,882.0,RAFT
+0.0,265.0,Plebi 0.3 prob topology
+0.0,549.0,Plebi 0.5 prob topology
+0.0,1561.0,Plebi 0.7 prob topology
+0.0,2657.0,Plebi 0.9 prob topology
+0.0,890.0,RAFT
+0.0,248.0,Plebi 0.3 prob topology
+0.0,435.0,Plebi 0.5 prob topology
+0.0,1566.0,Plebi 0.7 prob topology
+0.0,2398.0,Plebi 0.9 prob topology
+0.0,864.0,RAFT
+10.0,480.0,Plebi 0.3 prob topology
+10.0,672.0,Plebi 0.5 prob topology
+10.0,2090.0,Plebi 0.7 prob topology
+10.0,2576.0,Plebi 0.9 prob topology
+10.0,852.0,RAFT
+10.0,386.0,Plebi 0.3 prob topology
+10.0,842.0,Plebi 0.5 prob topology
+10.0,2161.0,Plebi 0.7 prob topology
+10.0,2449.0,Plebi 0.9 prob topology
+10.0,860.0,RAFT
+10.0,276.0,Plebi 0.3 prob topology
+10.0,661.0,Plebi 0.5 prob topology
+10.0,1368.0,Plebi 0.7 prob topology
+10.0,2503.0,Plebi 0.9 prob topology
+10.0,850.0,RAFT
+10.0,350.0,Plebi 0.3 prob topology
+10.0,583.0,Plebi 0.5 prob topology
+10.0,1463.0,Plebi 0.7 prob topology
+10.0,2412.0,Plebi 0.9 prob topology
+10.0,831.0,RAFT
+10.0,402.0,Plebi 0.3 prob topology
+10.0,690.0,Plebi 0.5 prob topology
+10.0,1710.0,Plebi 0.7 prob topology
+10.0,2067.0,Plebi 0.9 prob topology
+10.0,865.0,RAFT
+10.0,283.0,Plebi 0.3 prob topology
+10.0,890.0,Plebi 0.5 prob topology
+10.0,1658.0,Plebi 0.7 prob topology
+10.0,2208.0,Plebi 0.9 prob topology
+10.0,853.0,RAFT
+10.0,339.0,Plebi 0.3 prob topology
+10.0,879.0,Plebi 0.5 prob topology
+10.0,1946.0,Plebi 0.7 prob topology
+10.0,2023.0,Plebi 0.9 prob topology
+10.0,822.0,RAFT
+10.0,397.0,Plebi 0.3 prob topology
+10.0,720.0,Plebi 0.5 prob topology
+10.0,1483.0,Plebi 0.7 prob topology
+10.0,1873.0,Plebi 0.9 prob topology
+10.0,852.0,RAFT
+10.0,407.0,Plebi 0.3 prob topology
+10.0,911.0,Plebi 0.5 prob topology
+10.0,1847.0,Plebi 0.7 prob topology
+10.0,2122.0,Plebi 0.9 prob topology
+10.0,823.0,RAFT
+10.0,437.0,Plebi 0.3 prob topology
+10.0,802.0,Plebi 0.5 prob topology
+10.0,1565.0,Plebi 0.7 prob topology
+10.0,2503.0,Plebi 0.9 prob topology
+10.0,782.0,RAFT
+10.0,150.0,Plebi 0.3 prob topology
+10.0,740.0,Plebi 0.5 prob topology
+10.0,2118.0,Plebi 0.7 prob topology
+10.0,2239.0,Plebi 0.9 prob topology
+10.0,842.0,RAFT
+10.0,351.0,Plebi 0.3 prob topology
+10.0,631.0,Plebi 0.5 prob topology
+10.0,1499.0,Plebi 0.7 prob topology
+10.0,2226.0,Plebi 0.9 prob topology
+10.0,815.0,RAFT
+10.0,334.0,Plebi 0.3 prob topology
+10.0,646.0,Plebi 0.5 prob topology
+10.0,1232.0,Plebi 0.7 prob topology
+10.0,3018.0,Plebi 0.9 prob topology
+10.0,859.0,RAFT
+10.0,363.0,Plebi 0.3 prob topology
+10.0,817.0,Plebi 0.5 prob topology
+10.0,1267.0,Plebi 0.7 prob topology
+10.0,2091.0,Plebi 0.9 prob topology
+10.0,847.0,RAFT
+10.0,403.0,Plebi 0.3 prob topology
+10.0,706.0,Plebi 0.5 prob topology
+10.0,901.0,Plebi 0.7 prob topology
+10.0,2159.0,Plebi 0.9 prob topology
+10.0,841.0,RAFT
+10.0,330.0,Plebi 0.3 prob topology
+10.0,640.0,Plebi 0.5 prob topology
+10.0,1081.0,Plebi 0.7 prob topology
+10.0,2109.0,Plebi 0.9 prob topology
+10.0,795.0,RAFT
+10.0,414.0,Plebi 0.3 prob topology
+10.0,555.0,Plebi 0.5 prob topology
+10.0,1204.0,Plebi 0.7 prob topology
+10.0,2646.0,Plebi 0.9 prob topology
+10.0,848.0,RAFT
+10.0,158.0,Plebi 0.3 prob topology
+10.0,863.0,Plebi 0.5 prob topology
+10.0,1231.0,Plebi 0.7 prob topology
+10.0,2382.0,Plebi 0.9 prob topology
+10.0,823.0,RAFT
+10.0,146.0,Plebi 0.3 prob topology
+10.0,236.0,Plebi 0.5 prob topology
+10.0,840.0,Plebi 0.7 prob topology
+10.0,2352.0,Plebi 0.9 prob topology
+10.0,831.0,RAFT
+10.0,411.0,Plebi 0.3 prob topology
+10.0,681.0,Plebi 0.5 prob topology
+10.0,1214.0,Plebi 0.7 prob topology
+10.0,2638.0,Plebi 0.9 prob topology
+10.0,848.0,RAFT
+10.0,317.0,Plebi 0.3 prob topology
+10.0,662.0,Plebi 0.5 prob topology
+10.0,1253.0,Plebi 0.7 prob topology
+10.0,2689.0,Plebi 0.9 prob topology
+10.0,888.0,RAFT
+10.0,451.0,Plebi 0.3 prob topology
+10.0,836.0,Plebi 0.5 prob topology
+10.0,1289.0,Plebi 0.7 prob topology
+10.0,1737.0,Plebi 0.9 prob topology
+10.0,832.0,RAFT
+10.0,312.0,Plebi 0.3 prob topology
+10.0,217.0,Plebi 0.5 prob topology
+10.0,1433.0,Plebi 0.7 prob topology
+10.0,2205.0,Plebi 0.9 prob topology
+10.0,807.0,RAFT
+10.0,340.0,Plebi 0.3 prob topology
+10.0,629.0,Plebi 0.5 prob topology
+10.0,1330.0,Plebi 0.7 prob topology
+10.0,1903.0,Plebi 0.9 prob topology
+10.0,847.0,RAFT
+10.0,307.0,Plebi 0.3 prob topology
+10.0,777.0,Plebi 0.5 prob topology
+10.0,1280.0,Plebi 0.7 prob topology
+10.0,1944.0,Plebi 0.9 prob topology
+10.0,836.0,RAFT
+10.0,443.0,Plebi 0.3 prob topology
+10.0,678.0,Plebi 0.5 prob topology
+10.0,1342.0,Plebi 0.7 prob topology
+10.0,2031.0,Plebi 0.9 prob topology
+10.0,832.0,RAFT
+10.0,374.0,Plebi 0.3 prob topology
+10.0,676.0,Plebi 0.5 prob topology
+10.0,1096.0,Plebi 0.7 prob topology
+10.0,2266.0,Plebi 0.9 prob topology
+10.0,826.0,RAFT
+10.0,459.0,Plebi 0.3 prob topology
+10.0,218.0,Plebi 0.5 prob topology
+10.0,1341.0,Plebi 0.7 prob topology
+10.0,1852.0,Plebi 0.9 prob topology
+10.0,847.0,RAFT
+10.0,202.0,Plebi 0.3 prob topology
+10.0,672.0,Plebi 0.5 prob topology
+10.0,821.0,Plebi 0.7 prob topology
+10.0,2029.0,Plebi 0.9 prob topology
+10.0,853.0,RAFT
+10.0,259.0,Plebi 0.3 prob topology
+10.0,1038.0,Plebi 0.5 prob topology
+10.0,1189.0,Plebi 0.7 prob topology
+10.0,2805.0,Plebi 0.9 prob topology
+10.0,833.0,RAFT
+20.0,402.0,Plebi 0.3 prob topology
+20.0,503.0,Plebi 0.5 prob topology
+20.0,801.0,Plebi 0.7 prob topology
+20.0,1106.0,Plebi 0.9 prob topology
+20.0,764.0,RAFT
+20.0,280.0,Plebi 0.3 prob topology
+20.0,558.0,Plebi 0.5 prob topology
+20.0,1402.0,Plebi 0.7 prob topology
+20.0,1505.0,Plebi 0.9 prob topology
+20.0,753.0,RAFT
+20.0,317.0,Plebi 0.3 prob topology
+20.0,458.0,Plebi 0.5 prob topology
+20.0,1165.0,Plebi 0.7 prob topology
+20.0,1536.0,Plebi 0.9 prob topology
+20.0,800.0,RAFT
+20.0,391.0,Plebi 0.3 prob topology
+20.0,638.0,Plebi 0.5 prob topology
+20.0,821.0,Plebi 0.7 prob topology
+20.0,1494.0,Plebi 0.9 prob topology
+20.0,786.0,RAFT
+20.0,644.0,Plebi 0.3 prob topology
+20.0,1193.0,Plebi 0.5 prob topology
+20.0,1216.0,Plebi 0.7 prob topology
+20.0,1543.0,Plebi 0.9 prob topology
+20.0,834.0,RAFT
+20.0,132.0,Plebi 0.3 prob topology
+20.0,522.0,Plebi 0.5 prob topology
+20.0,2428.0,Plebi 0.7 prob topology
+20.0,1904.0,Plebi 0.9 prob topology
+20.0,836.0,RAFT
+20.0,290.0,Plebi 0.3 prob topology
+20.0,572.0,Plebi 0.5 prob topology
+20.0,2006.0,Plebi 0.7 prob topology
+20.0,2037.0,Plebi 0.9 prob topology
+20.0,820.0,RAFT
+20.0,217.0,Plebi 0.3 prob topology
+20.0,707.0,Plebi 0.5 prob topology
+20.0,2006.0,Plebi 0.7 prob topology
+20.0,1630.0,Plebi 0.9 prob topology
+20.0,830.0,RAFT
+20.0,255.0,Plebi 0.3 prob topology
+20.0,911.0,Plebi 0.5 prob topology
+20.0,2066.0,Plebi 0.7 prob topology
+20.0,1665.0,Plebi 0.9 prob topology
+20.0,755.0,RAFT
+20.0,170.0,Plebi 0.3 prob topology
+20.0,605.0,Plebi 0.5 prob topology
+20.0,2136.0,Plebi 0.7 prob topology
+20.0,2353.0,Plebi 0.9 prob topology
+20.0,802.0,RAFT
+20.0,185.0,Plebi 0.3 prob topology
+20.0,403.0,Plebi 0.5 prob topology
+20.0,1784.0,Plebi 0.7 prob topology
+20.0,1970.0,Plebi 0.9 prob topology
+20.0,750.0,RAFT
+20.0,215.0,Plebi 0.3 prob topology
+20.0,605.0,Plebi 0.5 prob topology
+20.0,1708.0,Plebi 0.7 prob topology
+20.0,2199.0,Plebi 0.9 prob topology
+20.0,754.0,RAFT
+20.0,239.0,Plebi 0.3 prob topology
+20.0,662.0,Plebi 0.5 prob topology
+20.0,3211.0,Plebi 0.7 prob topology
+20.0,2317.0,Plebi 0.9 prob topology
+20.0,836.0,RAFT
+20.0,388.0,Plebi 0.3 prob topology
+20.0,538.0,Plebi 0.5 prob topology
+20.0,2842.0,Plebi 0.7 prob topology
+20.0,1589.0,Plebi 0.9 prob topology
+20.0,842.0,RAFT
+20.0,253.0,Plebi 0.3 prob topology
+20.0,432.0,Plebi 0.5 prob topology
+20.0,1340.0,Plebi 0.7 prob topology
+20.0,2088.0,Plebi 0.9 prob topology
+20.0,802.0,RAFT
+20.0,224.0,Plebi 0.3 prob topology
+20.0,403.0,Plebi 0.5 prob topology
+20.0,736.0,Plebi 0.7 prob topology
+20.0,1924.0,Plebi 0.9 prob topology
+20.0,761.0,RAFT
+20.0,203.0,Plebi 0.3 prob topology
+20.0,542.0,Plebi 0.5 prob topology
+20.0,613.0,Plebi 0.7 prob topology
+20.0,2049.0,Plebi 0.9 prob topology
+20.0,661.0,RAFT
+20.0,223.0,Plebi 0.3 prob topology
+20.0,990.0,Plebi 0.5 prob topology
+20.0,749.0,Plebi 0.7 prob topology
+20.0,2224.0,Plebi 0.9 prob topology
+20.0,727.0,RAFT
+20.0,134.0,Plebi 0.3 prob topology
+20.0,520.0,Plebi 0.5 prob topology
+20.0,859.0,Plebi 0.7 prob topology
+20.0,1720.0,Plebi 0.9 prob topology
+20.0,759.0,RAFT
+20.0,290.0,Plebi 0.3 prob topology
+20.0,519.0,Plebi 0.5 prob topology
+20.0,593.0,Plebi 0.7 prob topology
+20.0,2126.0,Plebi 0.9 prob topology
+20.0,860.0,RAFT
+20.0,201.0,Plebi 0.3 prob topology
+20.0,480.0,Plebi 0.5 prob topology
+20.0,1512.0,Plebi 0.7 prob topology
+20.0,2143.0,Plebi 0.9 prob topology
+20.0,819.0,RAFT
+20.0,194.0,Plebi 0.3 prob topology
+20.0,316.0,Plebi 0.5 prob topology
+20.0,1162.0,Plebi 0.7 prob topology
+20.0,1649.0,Plebi 0.9 prob topology
+20.0,793.0,RAFT
+20.0,179.0,Plebi 0.3 prob topology
+20.0,783.0,Plebi 0.5 prob topology
+20.0,721.0,Plebi 0.7 prob topology
+20.0,1837.0,Plebi 0.9 prob topology
+20.0,754.0,RAFT
+20.0,144.0,Plebi 0.3 prob topology
+20.0,662.0,Plebi 0.5 prob topology
+20.0,867.0,Plebi 0.7 prob topology
+20.0,1544.0,Plebi 0.9 prob topology
+20.0,860.0,RAFT
+20.0,128.0,Plebi 0.3 prob topology
+20.0,1172.0,Plebi 0.5 prob topology
+20.0,1013.0,Plebi 0.7 prob topology
+20.0,1611.0,Plebi 0.9 prob topology
+20.0,800.0,RAFT
+30.0,139.0,Plebi 0.3 prob topology
+30.0,152.0,Plebi 0.5 prob topology
+30.0,948.0,Plebi 0.7 prob topology
+30.0,919.0,Plebi 0.9 prob topology
+30.0,813.0,RAFT
+30.0,177.0,Plebi 0.3 prob topology
+30.0,493.0,Plebi 0.5 prob topology
+30.0,773.0,Plebi 0.7 prob topology
+30.0,1210.0,Plebi 0.9 prob topology
+30.0,777.0,RAFT
+30.0,223.0,Plebi 0.3 prob topology
+30.0,535.0,Plebi 0.5 prob topology
+30.0,1400.0,Plebi 0.7 prob topology
+30.0,1261.0,Plebi 0.9 prob topology
+30.0,712.0,RAFT
+30.0,618.0,Plebi 0.3 prob topology
+30.0,651.0,Plebi 0.5 prob topology
+30.0,1121.0,Plebi 0.7 prob topology
+30.0,969.0,Plebi 0.9 prob topology
+30.0,651.0,RAFT
+30.0,440.0,Plebi 0.3 prob topology
+30.0,328.0,Plebi 0.5 prob topology
+30.0,769.0,Plebi 0.7 prob topology
+30.0,1596.0,Plebi 0.9 prob topology
+30.0,711.0,RAFT
+30.0,212.0,Plebi 0.3 prob topology
+30.0,604.0,Plebi 0.5 prob topology
+30.0,1566.0,Plebi 0.7 prob topology
+30.0,2214.0,Plebi 0.9 prob topology
+30.0,780.0,RAFT
+30.0,215.0,Plebi 0.3 prob topology
+30.0,675.0,Plebi 0.5 prob topology
+30.0,1356.0,Plebi 0.7 prob topology
+30.0,1708.0,Plebi 0.9 prob topology
+30.0,810.0,RAFT
+30.0,121.0,Plebi 0.3 prob topology
+30.0,758.0,Plebi 0.5 prob topology
+30.0,1075.0,Plebi 0.7 prob topology
+30.0,1070.0,Plebi 0.9 prob topology
+30.0,780.0,RAFT
+40.0,220.0,Plebi 0.3 prob topology
+40.0,437.0,Plebi 0.5 prob topology
+40.0,957.0,Plebi 0.7 prob topology
+40.0,1221.0,Plebi 0.9 prob topology
+40.0,808.0,RAFT
+40.0,833.0,Plebi 0.3 prob topology
+40.0,436.0,Plebi 0.5 prob topology
+40.0,1181.0,Plebi 0.7 prob topology
+40.0,1004.0,Plebi 0.9 prob topology
+40.0,618.0,RAFT
+40.0,308.0,Plebi 0.3 prob topology
+40.0,767.0,Plebi 0.5 prob topology
+40.0,1480.0,Plebi 0.7 prob topology
+40.0,1260.0,Plebi 0.9 prob topology
+40.0,736.0,RAFT
+40.0,632.0,Plebi 0.3 prob topology
+40.0,634.0,Plebi 0.5 prob topology
+40.0,408.0,Plebi 0.7 prob topology
+40.0,873.0,Plebi 0.9 prob topology
+40.0,691.0,RAFT
+40.0,571.0,Plebi 0.3 prob topology
+40.0,177.0,Plebi 0.5 prob topology
+40.0,838.0,Plebi 0.7 prob topology
+40.0,1231.0,Plebi 0.9 prob topology
+40.0,810.0,RAFT
+40.0,10.0,Plebi 0.3 prob topology
+40.0,614.0,Plebi 0.5 prob topology
+40.0,284.0,Plebi 0.7 prob topology
+40.0,1849.0,Plebi 0.9 prob topology
+40.0,721.0,RAFT
+40.0,227.0,Plebi 0.3 prob topology
+40.0,342.0,Plebi 0.5 prob topology
+40.0,711.0,Plebi 0.7 prob topology
+40.0,1470.0,Plebi 0.9 prob topology
+40.0,722.0,RAFT
+40.0,206.0,Plebi 0.3 prob topology
+40.0,294.0,Plebi 0.5 prob topology
+40.0,438.0,Plebi 0.7 prob topology
+40.0,1452.0,Plebi 0.9 prob topology
+40.0,682.0,RAFT
+40.0,93.0,Plebi 0.3 prob topology
+40.0,443.0,Plebi 0.5 prob topology
+40.0,431.0,Plebi 0.7 prob topology
+40.0,986.0,Plebi 0.9 prob topology
+40.0,838.0,RAFT
+40.0,83.0,Plebi 0.3 prob topology
+40.0,122.0,Plebi 0.5 prob topology
+40.0,497.0,Plebi 0.7 prob topology
+40.0,1532.0,Plebi 0.9 prob topology
+40.0,570.0,RAFT
+40.0,58.0,Plebi 0.3 prob topology
+40.0,467.0,Plebi 0.5 prob topology
+40.0,1192.0,Plebi 0.7 prob topology
+40.0,1929.0,Plebi 0.9 prob topology
+40.0,596.0,RAFT
+40.0,93.0,Plebi 0.3 prob topology
+40.0,49.0,Plebi 0.5 prob topology
+40.0,803.0,Plebi 0.7 prob topology
+40.0,1142.0,Plebi 0.9 prob topology
+40.0,750.0,RAFT
+40.0,208.0,Plebi 0.3 prob topology
+40.0,70.0,Plebi 0.5 prob topology
+40.0,916.0,Plebi 0.7 prob topology
+40.0,1211.0,Plebi 0.9 prob topology
+40.0,718.0,RAFT
+40.0,93.0,Plebi 0.3 prob topology
+40.0,342.0,Plebi 0.5 prob topology
+40.0,1517.0,Plebi 0.7 prob topology
+40.0,947.0,Plebi 0.9 prob topology
+40.0,814.0,RAFT
+40.0,10.0,Plebi 0.3 prob topology
+40.0,49.0,Plebi 0.5 prob topology
+40.0,1549.0,Plebi 0.7 prob topology
+40.0,1408.0,Plebi 0.9 prob topology
+40.0,619.0,RAFT
+40.0,10.0,Plebi 0.3 prob topology
+40.0,525.0,Plebi 0.5 prob topology
+40.0,391.0,Plebi 0.7 prob topology
+40.0,1270.0,Plebi 0.9 prob topology
+40.0,628.0,RAFT
+40.0,10.0,Plebi 0.3 prob topology
+40.0,248.0,Plebi 0.5 prob topology
+40.0,804.0,Plebi 0.7 prob topology
+40.0,1292.0,Plebi 0.9 prob topology
+40.0,790.0,RAFT
+40.0,54.0,Plebi 0.3 prob topology
+40.0,366.0,Plebi 0.5 prob topology
+40.0,1487.0,Plebi 0.7 prob topology
+40.0,816.0,Plebi 0.9 prob topology
+40.0,704.0,RAFT
+40.0,10.0,Plebi 0.3 prob topology
+40.0,402.0,Plebi 0.5 prob topology
+40.0,1114.0,Plebi 0.7 prob topology
+40.0,1257.0,Plebi 0.9 prob topology
+40.0,662.0,RAFT
+40.0,136.0,Plebi 0.3 prob topology
+40.0,453.0,Plebi 0.5 prob topology
+40.0,520.0,Plebi 0.7 prob topology
+40.0,870.0,Plebi 0.9 prob topology
+40.0,824.0,RAFT
+40.0,225.0,Plebi 0.3 prob topology
+40.0,130.0,Plebi 0.5 prob topology
+40.0,952.0,Plebi 0.7 prob topology
+40.0,1670.0,Plebi 0.9 prob topology
+40.0,632.0,RAFT
+40.0,210.0,Plebi 0.3 prob topology
+40.0,34.0,Plebi 0.5 prob topology
+40.0,537.0,Plebi 0.7 prob topology
+40.0,999.0,Plebi 0.9 prob topology
+40.0,796.0,RAFT
+40.0,248.0,Plebi 0.3 prob topology
+40.0,411.0,Plebi 0.5 prob topology
+40.0,804.0,Plebi 0.7 prob topology
+40.0,927.0,Plebi 0.9 prob topology
+40.0,852.0,RAFT
+30.0,110.0,Plebi 0.3 prob topology
+30.0,865.0,Plebi 0.5 prob topology
+30.0,860.0,Plebi 0.7 prob topology
+30.0,2018.0,Plebi 0.9 prob topology
+30.0,712.0,RAFT
+30.0,308.0,Plebi 0.3 prob topology
+30.0,647.0,Plebi 0.5 prob topology
+30.0,780.0,Plebi 0.7 prob topology
+30.0,1077.0,Plebi 0.9 prob topology
+30.0,813.0,RAFT
+30.0,132.0,Plebi 0.3 prob topology
+30.0,1265.0,Plebi 0.5 prob topology
+30.0,1561.0,Plebi 0.7 prob topology
+30.0,1616.0,Plebi 0.9 prob topology
+30.0,831.0,RAFT
+30.0,346.0,Plebi 0.3 prob topology
+30.0,748.0,Plebi 0.5 prob topology
+30.0,1053.0,Plebi 0.7 prob topology
+30.0,1736.0,Plebi 0.9 prob topology
+30.0,681.0,RAFT
+30.0,157.0,Plebi 0.3 prob topology
+30.0,546.0,Plebi 0.5 prob topology
+30.0,1523.0,Plebi 0.7 prob topology
+30.0,1944.0,Plebi 0.9 prob topology
+30.0,714.0,RAFT
+30.0,311.0,Plebi 0.3 prob topology
+30.0,716.0,Plebi 0.5 prob topology
+30.0,549.0,Plebi 0.7 prob topology
+30.0,1388.0,Plebi 0.9 prob topology
+30.0,795.0,RAFT
+30.0,332.0,Plebi 0.3 prob topology
+30.0,451.0,Plebi 0.5 prob topology
+30.0,1059.0,Plebi 0.7 prob topology
+30.0,804.0,Plebi 0.9 prob topology
+30.0,726.0,RAFT
+30.0,248.0,Plebi 0.3 prob topology
+30.0,697.0,Plebi 0.5 prob topology
+30.0,737.0,Plebi 0.7 prob topology
+30.0,1059.0,Plebi 0.9 prob topology
+30.0,709.0,RAFT
+30.0,144.0,Plebi 0.3 prob topology
+30.0,114.0,Plebi 0.5 prob topology
+30.0,1409.0,Plebi 0.7 prob topology
+30.0,1606.0,Plebi 0.9 prob topology
+30.0,785.0,RAFT
+30.0,88.0,Plebi 0.3 prob topology
+30.0,186.0,Plebi 0.5 prob topology
+30.0,743.0,Plebi 0.7 prob topology
+30.0,2022.0,Plebi 0.9 prob topology
+30.0,854.0,RAFT
+30.0,87.0,Plebi 0.3 prob topology
+30.0,51.0,Plebi 0.5 prob topology
+30.0,1429.0,Plebi 0.7 prob topology
+30.0,1952.0,Plebi 0.9 prob topology
+30.0,732.0,RAFT
+30.0,166.0,Plebi 0.3 prob topology
+30.0,176.0,Plebi 0.5 prob topology
+30.0,1465.0,Plebi 0.7 prob topology
+30.0,1514.0,Plebi 0.9 prob topology
+30.0,669.0,RAFT
+30.0,283.0,Plebi 0.3 prob topology
+30.0,1265.0,Plebi 0.5 prob topology
+30.0,1367.0,Plebi 0.7 prob topology
+30.0,2062.0,Plebi 0.9 prob topology
+30.0,839.0,RAFT
+30.0,207.0,Plebi 0.3 prob topology
+30.0,55.0,Plebi 0.5 prob topology
+30.0,1073.0,Plebi 0.7 prob topology
+30.0,1502.0,Plebi 0.9 prob topology
+30.0,777.0,RAFT
+50.0,448.0,Plebi 0.3 prob topology
+50.0,777.0,Plebi 0.5 prob topology
+50.0,946.0,Plebi 0.7 prob topology
+50.0,1001.0,Plebi 0.9 prob topology
+50.0,804.0,RAFT
+50.0,329.0,Plebi 0.3 prob topology
+50.0,1006.0,Plebi 0.5 prob topology
+50.0,868.0,Plebi 0.7 prob topology
+50.0,739.0,Plebi 0.9 prob topology
+50.0,622.0,RAFT
+50.0,645.0,Plebi 0.3 prob topology
+50.0,425.0,Plebi 0.5 prob topology
+50.0,703.0,Plebi 0.7 prob topology
+50.0,938.0,Plebi 0.9 prob topology
+50.0,402.0,RAFT
+50.0,430.0,Plebi 0.3 prob topology
+50.0,378.0,Plebi 0.5 prob topology
+50.0,664.0,Plebi 0.7 prob topology
+50.0,632.0,Plebi 0.9 prob topology
+50.0,104.0,RAFT
+50.0,126.0,Plebi 0.3 prob topology
+50.0,676.0,Plebi 0.5 prob topology
+50.0,484.0,Plebi 0.7 prob topology
+50.0,1012.0,Plebi 0.9 prob topology
+50.0,245.0,RAFT
+50.0,319.0,Plebi 0.3 prob topology
+50.0,665.0,Plebi 0.5 prob topology
+50.0,1175.0,Plebi 0.7 prob topology
+50.0,1233.0,Plebi 0.9 prob topology
+50.0,689.0,RAFT
+50.0,174.0,Plebi 0.3 prob topology
+50.0,837.0,Plebi 0.5 prob topology
+50.0,1358.0,Plebi 0.7 prob topology
+50.0,724.0,Plebi 0.9 prob topology
+50.0,707.0,RAFT
+50.0,203.0,Plebi 0.3 prob topology
+50.0,554.0,Plebi 0.5 prob topology
+50.0,746.0,Plebi 0.7 prob topology
+50.0,586.0,Plebi 0.9 prob topology
+50.0,707.0,RAFT
+50.0,262.0,Plebi 0.3 prob topology
+50.0,871.0,Plebi 0.5 prob topology
+50.0,782.0,Plebi 0.7 prob topology
+50.0,763.0,Plebi 0.9 prob topology
+50.0,725.0,RAFT
+50.0,286.0,Plebi 0.3 prob topology
+50.0,396.0,Plebi 0.5 prob topology
+50.0,681.0,Plebi 0.7 prob topology
+50.0,778.0,Plebi 0.9 prob topology
+50.0,397.0,RAFT
+50.0,606.0,Plebi 0.3 prob topology
+50.0,748.0,Plebi 0.5 prob topology
+50.0,621.0,Plebi 0.7 prob topology
+50.0,1135.0,Plebi 0.9 prob topology
+50.0,679.0,RAFT
+50.0,190.0,Plebi 0.3 prob topology
+50.0,334.0,Plebi 0.5 prob topology
+50.0,923.0,Plebi 0.7 prob topology
+50.0,699.0,Plebi 0.9 prob topology
+50.0,714.0,RAFT
+50.0,367.0,Plebi 0.3 prob topology
+50.0,599.0,Plebi 0.5 prob topology
+50.0,558.0,Plebi 0.7 prob topology
+50.0,1133.0,Plebi 0.9 prob topology
+50.0,640.0,RAFT
+50.0,153.0,Plebi 0.3 prob topology
+50.0,602.0,Plebi 0.5 prob topology
+50.0,506.0,Plebi 0.7 prob topology
+50.0,1265.0,Plebi 0.9 prob topology
+50.0,382.0,RAFT
+50.0,371.0,Plebi 0.3 prob topology
+50.0,923.0,Plebi 0.5 prob topology
+50.0,963.0,Plebi 0.7 prob topology
+50.0,834.0,Plebi 0.9 prob topology
+50.0,643.0,RAFT
+50.0,299.0,Plebi 0.3 prob topology
+50.0,557.0,Plebi 0.5 prob topology
+50.0,409.0,Plebi 0.7 prob topology
+50.0,734.0,Plebi 0.9 prob topology
+50.0,797.0,RAFT
+50.0,260.0,Plebi 0.3 prob topology
+50.0,588.0,Plebi 0.5 prob topology
+50.0,1225.0,Plebi 0.7 prob topology
+50.0,1013.0,Plebi 0.9 prob topology
+50.0,604.0,RAFT
+50.0,177.0,Plebi 0.3 prob topology
+50.0,359.0,Plebi 0.5 prob topology
+50.0,410.0,Plebi 0.7 prob topology
+50.0,851.0,Plebi 0.9 prob topology
+50.0,204.0,RAFT
+50.0,357.0,Plebi 0.3 prob topology
+50.0,821.0,Plebi 0.5 prob topology
+50.0,1057.0,Plebi 0.7 prob topology
+50.0,772.0,Plebi 0.9 prob topology
+50.0,237.0,RAFT
+50.0,324.0,Plebi 0.3 prob topology
+50.0,473.0,Plebi 0.5 prob topology
+50.0,1045.0,Plebi 0.7 prob topology
+50.0,917.0,Plebi 0.9 prob topology
+50.0,604.0,RAFT
+50.0,601.0,Plebi 0.3 prob topology
+50.0,434.0,Plebi 0.5 prob topology
+50.0,697.0,Plebi 0.7 prob topology
+50.0,1343.0,Plebi 0.9 prob topology
+50.0,662.0,RAFT
+50.0,354.0,Plebi 0.3 prob topology
+50.0,839.0,Plebi 0.5 prob topology
+50.0,699.0,Plebi 0.7 prob topology
+50.0,1191.0,Plebi 0.9 prob topology
+50.0,318.0,RAFT
+50.0,562.0,Plebi 0.3 prob topology
+50.0,512.0,Plebi 0.5 prob topology
+50.0,699.0,Plebi 0.7 prob topology
+50.0,1361.0,Plebi 0.9 prob topology
+50.0,254.0,RAFT
+50.0,229.0,Plebi 0.3 prob topology
+50.0,438.0,Plebi 0.5 prob topology
+50.0,877.0,Plebi 0.7 prob topology
+50.0,1297.0,Plebi 0.9 prob topology
+50.0,99.0,RAFT
+50.0,223.0,Plebi 0.3 prob topology
+50.0,389.0,Plebi 0.5 prob topology
+50.0,548.0,Plebi 0.7 prob topology
+50.0,1044.0,Plebi 0.9 prob topology
+50.0,767.0,RAFT
+50.0,309.0,Plebi 0.3 prob topology
+50.0,575.0,Plebi 0.5 prob topology
+50.0,355.0,Plebi 0.7 prob topology
+50.0,1609.0,Plebi 0.9 prob topology
+50.0,767.0,RAFT
+50.0,466.0,Plebi 0.3 prob topology
+50.0,652.0,Plebi 0.5 prob topology
+50.0,468.0,Plebi 0.7 prob topology
+50.0,735.0,Plebi 0.9 prob topology
+50.0,670.0,RAFT
+50.0,343.0,Plebi 0.3 prob topology
+50.0,697.0,Plebi 0.5 prob topology
+50.0,968.0,Plebi 0.7 prob topology
+50.0,721.0,Plebi 0.9 prob topology
+50.0,707.0,RAFT
+40.0,135.0,Plebi 0.3 prob topology
+40.0,365.0,Plebi 0.5 prob topology
+40.0,602.0,Plebi 0.7 prob topology
+40.0,1311.0,Plebi 0.9 prob topology
+40.0,656.0,RAFT
+40.0,129.0,Plebi 0.3 prob topology
+40.0,351.0,Plebi 0.5 prob topology
+40.0,634.0,Plebi 0.7 prob topology
+40.0,1487.0,Plebi 0.9 prob topology
+40.0,718.0,RAFT
+40.0,374.0,Plebi 0.3 prob topology
+40.0,615.0,Plebi 0.5 prob topology
+40.0,804.0,Plebi 0.7 prob topology
+40.0,1341.0,Plebi 0.9 prob topology
+40.0,790.0,RAFT
+40.0,402.0,Plebi 0.3 prob topology
+40.0,711.0,Plebi 0.5 prob topology
+40.0,927.0,Plebi 0.7 prob topology
+40.0,1393.0,Plebi 0.9 prob topology
+40.0,772.0,RAFT
+40.0,531.0,Plebi 0.3 prob topology
+40.0,462.0,Plebi 0.5 prob topology
+40.0,591.0,Plebi 0.7 prob topology
+40.0,971.0,Plebi 0.9 prob topology
+40.0,645.0,RAFT
+40.0,174.0,Plebi 0.3 prob topology
+40.0,776.0,Plebi 0.5 prob topology
+40.0,682.0,Plebi 0.7 prob topology
+40.0,1231.0,Plebi 0.9 prob topology
+40.0,630.0,RAFT
+40.0,262.0,Plebi 0.3 prob topology
+40.0,455.0,Plebi 0.5 prob topology
+40.0,806.0,Plebi 0.7 prob topology
+40.0,1179.0,Plebi 0.9 prob topology
+40.0,757.0,RAFT
+40.0,185.0,Plebi 0.3 prob topology
+40.0,459.0,Plebi 0.5 prob topology
+40.0,925.0,Plebi 0.7 prob topology
+40.0,1376.0,Plebi 0.9 prob topology
+40.0,738.0,RAFT
+40.0,191.0,Plebi 0.3 prob topology
+40.0,964.0,Plebi 0.5 prob topology
+40.0,1284.0,Plebi 0.7 prob topology
+40.0,1198.0,Plebi 0.9 prob topology
+40.0,828.0,RAFT
+40.0,131.0,Plebi 0.3 prob topology
+40.0,316.0,Plebi 0.5 prob topology
+40.0,855.0,Plebi 0.7 prob topology
+40.0,1393.0,Plebi 0.9 prob topology
+40.0,608.0,RAFT
+40.0,710.0,Plebi 0.3 prob topology
+40.0,601.0,Plebi 0.5 prob topology
+40.0,1412.0,Plebi 0.7 prob topology
+40.0,1002.0,Plebi 0.9 prob topology
+40.0,692.0,RAFT
+40.0,654.0,Plebi 0.3 prob topology
+40.0,947.0,Plebi 0.5 prob topology
+40.0,550.0,Plebi 0.7 prob topology
+40.0,1131.0,Plebi 0.9 prob topology
+40.0,852.0,RAFT
+40.0,258.0,Plebi 0.3 prob topology
+40.0,721.0,Plebi 0.5 prob topology
+40.0,488.0,Plebi 0.7 prob topology
+40.0,1052.0,Plebi 0.9 prob topology
+40.0,834.0,RAFT
+40.0,314.0,Plebi 0.3 prob topology
+40.0,786.0,Plebi 0.5 prob topology
+40.0,1040.0,Plebi 0.7 prob topology
+40.0,1040.0,Plebi 0.9 prob topology
+40.0,558.0,RAFT
+30.0,195.0,Plebi 0.3 prob topology
+30.0,724.0,Plebi 0.5 prob topology
+30.0,1416.0,Plebi 0.7 prob topology
+30.0,1914.0,Plebi 0.9 prob topology
+30.0,746.0,RAFT
+30.0,269.0,Plebi 0.3 prob topology
+30.0,650.0,Plebi 0.5 prob topology
+30.0,1235.0,Plebi 0.7 prob topology
+30.0,1265.0,Plebi 0.9 prob topology
+30.0,777.0,RAFT
+30.0,412.0,Plebi 0.3 prob topology
+30.0,671.0,Plebi 0.5 prob topology
+30.0,532.0,Plebi 0.7 prob topology
+30.0,1133.0,Plebi 0.9 prob topology
+30.0,681.0,RAFT
+30.0,163.0,Plebi 0.3 prob topology
+30.0,284.0,Plebi 0.5 prob topology
+30.0,1407.0,Plebi 0.7 prob topology
+30.0,828.0,Plebi 0.9 prob topology
+30.0,706.0,RAFT
+30.0,35.0,Plebi 0.3 prob topology
+30.0,761.0,Plebi 0.5 prob topology
+30.0,995.0,Plebi 0.7 prob topology
+30.0,1052.0,Plebi 0.9 prob topology
+30.0,706.0,RAFT
+30.0,276.0,Plebi 0.3 prob topology
+30.0,427.0,Plebi 0.5 prob topology
+30.0,707.0,Plebi 0.7 prob topology
+30.0,1467.0,Plebi 0.9 prob topology
+30.0,675.0,RAFT
+30.0,166.0,Plebi 0.3 prob topology
+30.0,471.0,Plebi 0.5 prob topology
+30.0,1186.0,Plebi 0.7 prob topology
+30.0,1168.0,Plebi 0.9 prob topology
+30.0,831.0,RAFT
+30.0,193.0,Plebi 0.3 prob topology
+30.0,392.0,Plebi 0.5 prob topology
+30.0,1103.0,Plebi 0.7 prob topology
+30.0,2058.0,Plebi 0.9 prob topology
+30.0,777.0,RAFT
+30.0,226.0,Plebi 0.3 prob topology
+30.0,279.0,Plebi 0.5 prob topology
+30.0,536.0,Plebi 0.7 prob topology
+30.0,1037.0,Plebi 0.9 prob topology
+30.0,846.0,RAFT
+30.0,72.0,Plebi 0.3 prob topology
+30.0,424.0,Plebi 0.5 prob topology
+30.0,935.0,Plebi 0.7 prob topology
+30.0,1560.0,Plebi 0.9 prob topology
+30.0,703.0,RAFT
+30.0,200.0,Plebi 0.3 prob topology
+30.0,460.0,Plebi 0.5 prob topology
+30.0,742.0,Plebi 0.7 prob topology
+30.0,973.0,Plebi 0.9 prob topology
+30.0,744.0,RAFT
+30.0,250.0,Plebi 0.3 prob topology
+30.0,263.0,Plebi 0.5 prob topology
+30.0,778.0,Plebi 0.7 prob topology
+30.0,1123.0,Plebi 0.9 prob topology
+30.0,762.0,RAFT
+20.0,436.0,Plebi 0.3 prob topology
+20.0,833.0,Plebi 0.5 prob topology
+20.0,1434.0,Plebi 0.7 prob topology
+20.0,2046.0,Plebi 0.9 prob topology
+20.0,810.0,RAFT
+20.0,492.0,Plebi 0.3 prob topology
+20.0,782.0,Plebi 0.5 prob topology
+20.0,1853.0,Plebi 0.7 prob topology
+20.0,1806.0,Plebi 0.9 prob topology
+20.0,824.0,RAFT
+20.0,292.0,Plebi 0.3 prob topology
+20.0,714.0,Plebi 0.5 prob topology
+20.0,1290.0,Plebi 0.7 prob topology
+20.0,2577.0,Plebi 0.9 prob topology
+20.0,701.0,RAFT
+20.0,317.0,Plebi 0.3 prob topology
+20.0,971.0,Plebi 0.5 prob topology
+20.0,1499.0,Plebi 0.7 prob topology
+20.0,2257.0,Plebi 0.9 prob topology
+20.0,768.0,RAFT
+20.0,297.0,Plebi 0.3 prob topology
+20.0,787.0,Plebi 0.5 prob topology
+20.0,992.0,Plebi 0.7 prob topology
+20.0,2061.0,Plebi 0.9 prob topology
+20.0,762.0,RAFT
+20.0,288.0,Plebi 0.3 prob topology
+20.0,1138.0,Plebi 0.5 prob topology
+20.0,1814.0,Plebi 0.7 prob topology
+20.0,2400.0,Plebi 0.9 prob topology
+20.0,738.0,RAFT
+20.0,258.0,Plebi 0.3 prob topology
+20.0,989.0,Plebi 0.5 prob topology
+20.0,1087.0,Plebi 0.7 prob topology
+20.0,1551.0,Plebi 0.9 prob topology
+20.0,824.0,RAFT
+20.0,371.0,Plebi 0.3 prob topology
+20.0,986.0,Plebi 0.5 prob topology
+20.0,691.0,Plebi 0.7 prob topology
+20.0,2442.0,Plebi 0.9 prob topology
+20.0,791.0,RAFT
+20.0,399.0,Plebi 0.3 prob topology
+20.0,887.0,Plebi 0.5 prob topology
+20.0,911.0,Plebi 0.7 prob topology
+20.0,2894.0,Plebi 0.9 prob topology
+20.0,824.0,RAFT
+50.0,70.0,Plebi 0.3 prob topology
+50.0,367.0,Plebi 0.5 prob topology
+50.0,505.0,Plebi 0.7 prob topology
+50.0,635.0,Plebi 0.9 prob topology
+50.0,695.0,RAFT
+50.0,127.0,Plebi 0.3 prob topology
+50.0,143.0,Plebi 0.5 prob topology
+50.0,150.0,Plebi 0.7 prob topology
+50.0,582.0,Plebi 0.9 prob topology
+50.0,402.0,RAFT
+10.0,170.0,Plebi 0.3 prob topology
+10.0,489.0,Plebi 0.5 prob topology
+10.0,1435.0,Plebi 0.7 prob topology
+10.0,1458.0,Plebi 0.9 prob topology
+10.0,800.0,RAFT
+10.0,209.0,Plebi 0.3 prob topology
+10.0,570.0,Plebi 0.5 prob topology
+10.0,1053.0,Plebi 0.7 prob topology
+10.0,1840.0,Plebi 0.9 prob topology
+10.0,843.0,RAFT
+10.0,266.0,Plebi 0.3 prob topology
+10.0,555.0,Plebi 0.5 prob topology
+10.0,1060.0,Plebi 0.7 prob topology
+10.0,1853.0,Plebi 0.9 prob topology
+10.0,816.0,RAFT
+10.0,247.0,Plebi 0.3 prob topology
+10.0,390.0,Plebi 0.5 prob topology
+10.0,1132.0,Plebi 0.7 prob topology
+10.0,1334.0,Plebi 0.9 prob topology
+10.0,873.0,RAFT
+10.0,166.0,Plebi 0.3 prob topology
+10.0,592.0,Plebi 0.5 prob topology
+10.0,1028.0,Plebi 0.7 prob topology
+10.0,1944.0,Plebi 0.9 prob topology
+10.0,888.0,RAFT
+10.0,244.0,Plebi 0.3 prob topology
+10.0,596.0,Plebi 0.5 prob topology
+10.0,1195.0,Plebi 0.7 prob topology
+10.0,1794.0,Plebi 0.9 prob topology
+10.0,786.0,RAFT
+10.0,170.0,Plebi 0.3 prob topology
+10.0,540.0,Plebi 0.5 prob topology
+10.0,1508.0,Plebi 0.7 prob topology
+10.0,1224.0,Plebi 0.9 prob topology
+10.0,783.0,RAFT
+10.0,323.0,Plebi 0.3 prob topology
+10.0,354.0,Plebi 0.5 prob topology
+10.0,1159.0,Plebi 0.7 prob topology
+10.0,1371.0,Plebi 0.9 prob topology
+10.0,842.0,RAFT
+10.0,10.0,Plebi 0.3 prob topology
+10.0,621.0,Plebi 0.5 prob topology
+10.0,1313.0,Plebi 0.7 prob topology
+10.0,1360.0,Plebi 0.9 prob topology
+10.0,818.0,RAFT
+10.0,10.0,Plebi 0.3 prob topology
+10.0,484.0,Plebi 0.5 prob topology
+10.0,1116.0,Plebi 0.7 prob topology
+10.0,2631.0,Plebi 0.9 prob topology
+10.0,834.0,RAFT
+10.0,258.0,Plebi 0.3 prob topology
+10.0,607.0,Plebi 0.5 prob topology
+10.0,1589.0,Plebi 0.7 prob topology
+10.0,2296.0,Plebi 0.9 prob topology
+10.0,847.0,RAFT
+10.0,215.0,Plebi 0.3 prob topology
+10.0,526.0,Plebi 0.5 prob topology
+10.0,1951.0,Plebi 0.7 prob topology
+10.0,1493.0,Plebi 0.9 prob topology
+10.0,782.0,RAFT
+10.0,125.0,Plebi 0.3 prob topology
+10.0,575.0,Plebi 0.5 prob topology
+10.0,1452.0,Plebi 0.7 prob topology
+10.0,3251.0,Plebi 0.9 prob topology
+10.0,833.0,RAFT
+50.0,68.0,Plebi 0.3 prob topology
+50.0,261.0,Plebi 0.5 prob topology
+50.0,599.0,Plebi 0.7 prob topology
+50.0,1140.0,Plebi 0.9 prob topology
+50.0,322.0,RAFT
+50.0,35.0,Plebi 0.3 prob topology
+50.0,403.0,Plebi 0.5 prob topology
+50.0,859.0,Plebi 0.7 prob topology
+50.0,1035.0,Plebi 0.9 prob topology
+50.0,725.0,RAFT
+50.0,78.0,Plebi 0.3 prob topology
+50.0,134.0,Plebi 0.5 prob topology
+50.0,442.0,Plebi 0.7 prob topology
+50.0,656.0,Plebi 0.9 prob topology
+50.0,568.0,RAFT
+50.0,84.0,Plebi 0.3 prob topology
+50.0,297.0,Plebi 0.5 prob topology
+50.0,274.0,Plebi 0.7 prob topology
+50.0,605.0,Plebi 0.9 prob topology
+50.0,406.0,RAFT
+50.0,118.0,Plebi 0.3 prob topology
+50.0,361.0,Plebi 0.5 prob topology
+50.0,139.0,Plebi 0.7 prob topology
+50.0,995.0,Plebi 0.9 prob topology
+50.0,622.0,RAFT
+50.0,62.0,Plebi 0.3 prob topology
+50.0,518.0,Plebi 0.5 prob topology
+50.0,275.0,Plebi 0.7 prob topology
+50.0,496.0,Plebi 0.9 prob topology
+50.0,277.0,RAFT
+50.0,69.0,Plebi 0.3 prob topology
+50.0,672.0,Plebi 0.5 prob topology
+50.0,226.0,Plebi 0.7 prob topology
+50.0,472.0,Plebi 0.9 prob topology
+50.0,633.0,RAFT
+50.0,120.0,Plebi 0.3 prob topology
+50.0,200.0,Plebi 0.5 prob topology
+50.0,146.0,Plebi 0.7 prob topology
+50.0,835.0,Plebi 0.9 prob topology
+50.0,650.0,RAFT
+50.0,97.0,Plebi 0.3 prob topology
+50.0,415.0,Plebi 0.5 prob topology
+50.0,292.0,Plebi 0.7 prob topology
+50.0,1289.0,Plebi 0.9 prob topology
+50.0,245.0,RAFT
+50.0,32.0,Plebi 0.3 prob topology
+50.0,259.0,Plebi 0.5 prob topology
+50.0,195.0,Plebi 0.7 prob topology
+50.0,556.0,Plebi 0.9 prob topology
+50.0,731.0,RAFT
+50.0,67.0,Plebi 0.3 prob topology
+50.0,248.0,Plebi 0.5 prob topology
+50.0,833.0,Plebi 0.7 prob topology
+50.0,798.0,Plebi 0.9 prob topology
+50.0,650.0,RAFT
+30.0,114.0,Plebi 0.3 prob topology
+30.0,354.0,Plebi 0.5 prob topology
+30.0,510.0,Plebi 0.7 prob topology
+30.0,1440.0,Plebi 0.9 prob topology
+30.0,854.0,RAFT
+30.0,95.0,Plebi 0.3 prob topology
+30.0,240.0,Plebi 0.5 prob topology
+30.0,814.0,Plebi 0.7 prob topology
+30.0,1384.0,Plebi 0.9 prob topology
+30.0,760.0,RAFT
+30.0,135.0,Plebi 0.3 prob topology
+30.0,437.0,Plebi 0.5 prob topology
+30.0,824.0,Plebi 0.7 prob topology
+30.0,1277.0,Plebi 0.9 prob topology
+30.0,720.0,RAFT
+30.0,145.0,Plebi 0.3 prob topology
+30.0,303.0,Plebi 0.5 prob topology
+30.0,577.0,Plebi 0.7 prob topology
+30.0,1314.0,Plebi 0.9 prob topology
+30.0,700.0,RAFT
+30.0,138.0,Plebi 0.3 prob topology
+30.0,483.0,Plebi 0.5 prob topology
+30.0,684.0,Plebi 0.7 prob topology
+30.0,1208.0,Plebi 0.9 prob topology
+30.0,780.0,RAFT
+30.0,108.0,Plebi 0.3 prob topology
+30.0,304.0,Plebi 0.5 prob topology
+30.0,675.0,Plebi 0.7 prob topology
+30.0,1403.0,Plebi 0.9 prob topology
+30.0,696.0,RAFT
+30.0,32.0,Plebi 0.3 prob topology
+30.0,455.0,Plebi 0.5 prob topology
+30.0,476.0,Plebi 0.7 prob topology
+30.0,1126.0,Plebi 0.9 prob topology
+30.0,684.0,RAFT
+30.0,148.0,Plebi 0.3 prob topology
+30.0,250.0,Plebi 0.5 prob topology
+30.0,648.0,Plebi 0.7 prob topology
+30.0,1139.0,Plebi 0.9 prob topology
+30.0,780.0,RAFT
+30.0,108.0,Plebi 0.3 prob topology
+30.0,256.0,Plebi 0.5 prob topology
+30.0,643.0,Plebi 0.7 prob topology
+30.0,1002.0,Plebi 0.9 prob topology
+30.0,669.0,RAFT
+30.0,133.0,Plebi 0.3 prob topology
+30.0,200.0,Plebi 0.5 prob topology
+30.0,648.0,Plebi 0.7 prob topology
+30.0,1301.0,Plebi 0.9 prob topology
+30.0,846.0,RAFT
